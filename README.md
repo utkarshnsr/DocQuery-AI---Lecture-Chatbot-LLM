@@ -1,7 +1,9 @@
 <h1>Web Application for PDF Document Querying</h1>
 
 I developed a web application that allows users to input PDF documents (let it be lectures or other useful documents) and ask questions about their content using an integrated chatbot. This application leverages several powerful technologies and libraries to provide a seamless and efficient user experience.
-<img width="1440" alt="image" src="https://github.com/utkarshnsr/Lecture-Chatbot-LLM/assets/38819418/d7a9deb8-3467-4714-8393-9d59057f64df">
+
+<img width="1431" alt="image" src="https://github.com/utkarshnsr/Lecture-Chatbot-LLM/assets/38819418/243785e0-6446-4032-b16f-f0b2ba77c031">
+
 
 
 <h2>Technologies Used</h2>
