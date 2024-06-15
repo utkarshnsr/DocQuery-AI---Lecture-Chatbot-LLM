@@ -32,4 +32,8 @@ Streamlit was used to create an intuitive and user-friendly web interface, makin
 
 [Similar Project](https://pytechacademy.medium.com/building-an-ai-powered-chatbot-to-chat-with-pdf-document-using-langchain-and-streamlit-ff8ee64401c9)
 
+[LangChain Documentation](https://python.langchain.com/v0.2/docs/introduction/)
+
+[Streamlit UI Reference Sheet](https://github.com/daniellewisDL/streamlit-cheat-sheet)
+
 
