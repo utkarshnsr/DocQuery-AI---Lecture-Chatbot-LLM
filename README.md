@@ -9,7 +9,7 @@ I developed a web application that allows users to input PDF documents (let it b
 
 Python was used as the core programming language for developing the backend of the application.
 
-![LangChain Logo]([https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg4jkdnXObrQLxaDRLpqljxZFK5vxsiUaDw&s))
+![LangChain Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--ZAcgbMz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5u34aur48tj25f61uhqy.png)
 
 LangChain was used for the RAG process and connecting LLMs for answering user's questions.
 
