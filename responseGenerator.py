@@ -16,11 +16,15 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 class ResponseGeneratorClass:
 
-    def __init__(self, pdf):
-        self.file = pdf
+    def __init__(self):
+        self.file = None
         self.fileText = "None"
         self.splittedData = None
         self.vectorDB = None
+
+    
+    def addFile(self,pdfFile):
+        self.file = pdfFile
 
     def configureGemini(self):
         load_dotenv()
