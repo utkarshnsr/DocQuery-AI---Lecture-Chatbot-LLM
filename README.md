@@ -28,7 +28,7 @@ Streamlit was used to create an intuitive and user-friendly web interface, makin
 
 <h2>Helpful Resources</h2>
 
-[Deeplearning AI Course LangChain Chat with Your Data]([https://link-url-here.org](https://learn.deeplearning.ai/accomplishments/d6b83549-5d36-438f-84a9-dc6bab88e57f)
+[Deeplearning AI Course LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/d6b83549-5d36-438f-84a9-dc6bab88e57f)
 
 [Similar Project](https://pytechacademy.medium.com/building-an-ai-powered-chatbot-to-chat-with-pdf-document-using-langchain-and-streamlit-ff8ee64401c9)
 
