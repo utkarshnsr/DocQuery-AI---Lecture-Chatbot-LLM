@@ -15,3 +15,13 @@ LangChain was used for the RAG process and connecting LLMs for answering user's 
 
 
 ![Google Gemini](https://lh3.googleusercontent.com/LKDaEbwbaU5rCRgwXXLvtLr1kx-HI6o0WB6xvIOyFIH3162Me7GpUaESQfsoj0XJcIJNKjaQ8Yo5ZBfMJYiAycwHVo9tjET8V-u9iVdRspiTPbg9LQ=w1200-h630-n-nu)
+
+This application uses Gemini model for chatbot.
+
+![FAISS Vector DB](https://miro.medium.com/v2/resize:fit:1200/1*0RYPhRnYxBEUXRhNcKL8Zw.jpeg)
+
+FAISS (Facebook AI Similarity Search) was employed for efficient vector search operations, allowing for quick and precise retrieval of relevant document sections based on user queries.
+
+![Streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
+
+Streamlit was used to create an intuitive and user-friendly web interface, making it easy for users to upload PDFs and interact with the chatbot.
