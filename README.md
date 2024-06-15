@@ -5,7 +5,7 @@ I developed a web application that allows users to input PDF documents (let it b
 
 <h2>Technologies Used</h2>
 
-![Python Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMOAPrLV8_sMUg-UVBsFz4MkUc5LgLlkjpA&s](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)
+![Python Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMOAPrLV8_sMUg-UVBsFz4MkUc5LgLlkjpA&s](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8MAmlcO5_rDDcrhKCtjUuHxi6AY36dIN-iQ&s)
 
 Python was used as the core programming language for developing the backend of the application.
 
