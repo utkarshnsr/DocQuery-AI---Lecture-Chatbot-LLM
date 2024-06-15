@@ -19,7 +19,6 @@ def extractProcess(file):
         text = ""
         for page in pdfReader.pages:
             text += page.extract_text()
-        #testing
         return text
 
 
