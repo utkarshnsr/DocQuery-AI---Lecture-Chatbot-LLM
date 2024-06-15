@@ -5,7 +5,7 @@ I developed a web application that allows users to input PDF documents (let it b
 
 <h2>Technologies Used</h2>
 
-![Python Logo]("https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg")
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
 
 
