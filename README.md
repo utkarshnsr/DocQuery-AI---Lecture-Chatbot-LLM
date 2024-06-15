@@ -2,7 +2,7 @@
 
 I developed a web application that allows users to input PDF documents (let it be lectures or other useful documents) and ask questions about their content using an integrated chatbot. This application leverages several powerful technologies and libraries to provide a seamless and efficient user experience.
 
-<img width="1431" alt="image" src="https://github.com/utkarshnsr/Lecture-Chatbot-LLM/assets/38819418/243785e0-6446-4032-b16f-f0b2ba77c031">
+<img width="1440" alt="image" src="https://github.com/utkarshnsr/Lecture-Chatbot-LLM/assets/38819418/748b35ad-8b80-442e-bd38-dd6789491476">
 
 
 
