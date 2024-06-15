@@ -5,9 +5,12 @@ I developed a web application that allows users to input PDF documents (let it b
 
 <h2>Technologies Used</h2>
 
+<img src="https://www.example.com/images/example-image.jpg" alt="An Example Image">
 
 
-<img src="[https://www.example.com/images/example-image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)" alt="An Example Image">
+<img src="https://www.example.com/images/example-image.jpg" alt="An Example Image">
+
+
 
 
 
