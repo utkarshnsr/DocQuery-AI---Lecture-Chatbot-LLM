@@ -1,5 +1,6 @@
 import streamlit as st
-import responseGenerator
+import responseGenerator 
+from responseGenerator import ResponseGeneratorClass
 
 def main():
     st.markdown("<h1 style='text-align: center;'>Lecture Notes Q&A Chatbot</h1>", unsafe_allow_html=True)
@@ -11,17 +12,13 @@ def main():
         st.header("File Uploader")
         pdf = st.file_uploader("Please upload your lecture note!")
         if pdf:
-            with st.spinner("Extracting Text..."):
-                text = responseGenerator.extractProcess(pdf)
-            with st.spinner("Chunking Text..."):
-                dataSplitted = responseGenerator.chunkProcess(text)
-            with st.spinner("Embeding Text..."):
-                db = responseGenerator.embedProcess(dataSplitted)
-                st.write(text)
-                openChatbot(col2)
+            responseGen = ResponseGeneratorClass(pdf)
+            responseGen.initiateRAGProcess()
+            st.success("Successfully uploaded your notes!")
+            openChatbot(col2,responseGen)
         
     
-def openChatbot(col2):
+def openChatbot(col2, responseGenInstance):
     with col2:
         st.header("Chatbot")
         st.markdown(
@@ -68,7 +65,7 @@ def openChatbot(col2):
         prompt = st.chat_input("Ask your question!")
         if prompt:
             st.session_state.messages.append({"role": "user", "content": prompt})
-            response = responseGenerator.main(prompt)
+            response = responseGenInstance.userInputProcess(prompt)
             st.session_state.messages.append({"role": "assistant", "content": response})
 
         chat_history = "<div id='chatbox' class='chatbox'>"
